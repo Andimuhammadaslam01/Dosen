@@ -12,7 +12,10 @@
 This project is about C# Program for Exercise Programming Subject.
 
 ## People
-
+ 1. Andi Muhammad Aslam {22.11.5234}
+ 2. Kevan Pascaree Kanestri {22.11.5206}
+ 3. Suci Oktafiani {22.11.5200}
+ 4. Milanesta Tiffany Hakim {22.11.5249}
 ## License
 
 Copyright © 2023 [CS Dosen](https://github.com/rizalarfiyan/cs-dosen).<br />
